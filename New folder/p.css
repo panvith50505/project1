@@ -1,0 +1,128 @@
+body{
+    margin:0px;
+    background-color: rgb(181, 247, 247);
+
+}
+
+#d1{
+    background-color: darkcyan;
+    height: 60px;
+    border-radius: 10px;   
+   
+}
+#d1 h2{
+    margin:0px;
+    text-align: center;
+    font-style: italic;
+    line-height: 60px;
+}
+
+
+#d2{
+    background-color: darkcyan;
+    height: 30px;
+    margin-top:2px;
+    border-radius: 10px;   
+}
+
+#d2 ul{
+    margin:0px;
+    text-align:center;
+    list-style: none;
+}
+#d2 ul li{
+    display: inline;
+}
+
+#d2 ul li a{
+    line-height: 30px;
+    text-decoration: none;
+    padding-left:30px;
+    padding-right:30px;
+    padding-top:5px;
+    padding-bottom: 5px;
+    
+}
+
+#d2 ul li a:hover{
+    background-color: black;
+    color: darkred;
+  
+}
+
+#d3{    
+    background-color: darkcyan;
+    margin-top:2px;
+    /* margin-left: 10px; */
+    /* margin-bottom: 10px; */
+    margin-right:320px;
+    border-radius: 10px;
+    padding:10px;
+}
+#d4{
+    float:left;
+    background-color: darkcyan;
+    margin-top:2px;
+    margin-right: 320px;
+    border-radius: 10px;
+    padding:10px;
+}
+.s1{
+    background-color: darkcyan;
+    margin-top:2px;
+    width:315px;
+    border-radius:10px;
+    float:right;
+    clear: right;
+    text-align:center;
+}
+#img{
+    background-color: black;
+    border-radius: 10px;
+    float:right;
+    width: 315px;
+    margin-top:2px;
+    text-align:center;
+    clear: right;
+    transition:  opacity 0.5s ease-in-out;
+
+}
+#img:hover{
+ opacity: 0.5;
+}
+
+#last{
+    
+        background-color: darkcyan;
+        /* height: 30px; */
+        margin-top: 2px;
+        border-radius: 10px;   
+        clear: both;
+        text-align: center;
+    
+
+}
+#last ul{
+    margin:0px;
+    text-align:center;
+    list-style: none;
+}
+#last ul li{
+    display: inline;
+}
+
+#last ul li a{
+    line-height: 30px;
+    text-decoration: none;
+    padding-left:30px;
+    padding-right:30px;
+    padding-top:5px;
+    padding-bottom: 5px;
+    
+}
+
+#last ul li a:hover{
+    background-color: black;
+    color: darkred;
+  
+}
